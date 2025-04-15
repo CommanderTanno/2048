@@ -1,6 +1,6 @@
 body{
   display: flex;
-  background: #faf8ef;
+  background: #1a3c34;
   align-items: center;
   justify-content: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -20,7 +20,7 @@ body{
   border-radius: 5px;
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #bbada0;
+  background-color: #d3b777;
 }
 .square {
   display: flex;
@@ -44,12 +44,12 @@ body{
 }
 h1 {
   font-size: 70px;
-  color:#776e65;
+  color:#d3b777;
 }
 .scoreElementContainer {
   display: flex;
   flex-direction: column;
-  background: #bbada0;
+  background: #d3b777;
   padding:15px 25px;
   font-size: 25px;
   font-weight: bold;
@@ -69,7 +69,7 @@ button {
   outline: none;
   font-size: large;
   font-weight: bold;
-  background-color: #8f7a66;
+  background-color: #a38e5b;
   color:#f9f6f2;
   border: none;
   border-radius: 3px;
