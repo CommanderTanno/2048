@@ -120,44 +120,44 @@ button {
 }
 
 .value2 {
-  color:rgb(119, 110, 101);
-  background-color: #eee4da;
+  color:#2a4d44;
+  background-color: #a4c2bc;
 }
 .value4 {
-  color:rgb(119, 110, 101);
-  background-color: #eee1c9;
+  color:#2a4d44;
+  background-color: #8eb3a6;;
 }
 .value8 {
   color:#f9f6f2;
-  background-color: #f3b27a;
+  background-color: #66a182;
 }
 .value16 {
   color:#f9f6f2;
-  background-color: #f69664;
+  background-color: #4d9070;
 }
 .value32 {
   color:#f9f6f2;
-  background-color: #f77c5f;
+  background-color: #368b88;
 }
 .value64 {
   color:#f9f6f2;
-  background-color: #f75f3b;
+  background-color: #1f8599;
 }
 .value128 {
   color:#f9f6f2;
-  background-color: #edd073;
+  background-color: #7b6bb83;
 }
 .value256 {
   color:#f9f6f2;
-  background-color: #edcc62;
+  background-color: #9b59b6;
 }
 .value512 {
   color:#f9f6f2;
-  background-color: #edc950;
+  background-color: #d3b777;
 }
 .value1024 {
   color:#f9f6f2;
-  background-color: #edc53f;
+  background-color: #c1a052;
   font-size: 40px;
 }
 .value2048 {
